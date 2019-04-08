@@ -1,31 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>
-https://development23.baidupan.com/ipa/2019/04/08/8619f2286d5f4ca51097f967602a1e28/1554735821/lG3n7pMG8sM4rfXIZHgXwQ.ipa
-</string>
-</dict>
-</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
-<string>com.aldb.ios.magic.19983</string>
-<key>bundle-version</key>
-<string>1</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>爱看影视关注公众号ikvip</string>
-</dict>
-</dict>
-</array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://development23.baidupan.com/ipa/2019/04/08/8619f2286d5f4ca51097f967602a1e28/1554735821/lG3n7pMG8sM4rfXIZHgXwQ.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.cysmdp.com/logo.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://i.loli.net/2019/04/08/5cab5da0855eb.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.pangu.small</string>
+				<key>bundle-version</key>
+				<string>6.5.16</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>微信vip</string>
+				<key>title</key>
+				<string>爱看影视-后期更新请关注微信公众号：ikvip</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
